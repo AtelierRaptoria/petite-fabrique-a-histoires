@@ -83,7 +83,7 @@ void defilementTexte(String texte) {
             lcd.scrollDisplayLeft();
             lcd.print(texte[idx]);
             idx = idx + 1;
-            delay(100);
+            delay(200);
         }
     }
 }
