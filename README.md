@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Génération d'histoires très courtes affichées sur une écran relié à une Arduino
+> Génération d'histoires très courtes affichées sur une écran relié à une Arduino<br />
 [https://raptoria.fr/electronique/la-petite-fabrique-a-histoires](https://raptoria.fr/electronique/la-petite-fabrique-a-histoires)
 
 ## 🤖 Matériel
