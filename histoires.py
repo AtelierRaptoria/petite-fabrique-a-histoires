@@ -671,7 +671,7 @@ HISTOIRES = {
     "VTI_PQP_A_SNG": [
         "avait ressemble",
         "avait desobeisse",
-        "avait survive"
+        "avait survécu"
     ],
 
     # Verbes intransitifs conjugués à la troisième personne du pluriel
