@@ -13,14 +13,14 @@
 [https://raptoria.fr/electronique/la-petite-fabrique-a-histoires](https://raptoria.fr/electronique/la-petite-fabrique-a-histoires)
 
 ## 🤖 Matériel
-⚫ 1 carte Arduino
-⚫ 1 breadboard
-⚫ 1 écran LCD
-⚫ 1 potentiomètre
-⚫ 1 bouton poussoir
-⚫ 1 résistance 10kΩ
-⚫ 1 résistance 220Ω
-⚫ câbles
+- 1 carte Arduino
+- 1 breadboard
+- 1 écran LCD
+- 1 potentiomètre
+- 1 bouton poussoir
+- 1 résistance 10kΩ
+- 1 résistance 220Ω
+- câbles
 
 ## 🔌 Câblage
 <img src="cablage.png" alt="cablage" width="400"/>
@@ -56,10 +56,10 @@ Si ce projet vous a plu, n'hésitez pas à lui donner une ⭐️ !
 
 ## 💃 Raptoria
 
-⚫ Site web : raptoria.fr
-⚫ Twitter : [@AtelierRaptoria](https://twitter.com/AtelierRaptoria)
-⚫ Gitlab : [@AtelierRaptoria](https://gitlab.com/AtelierRaptoria)
-⚫ Github : [@AtelierRaptoria](https://github.com/AtelierRaptoria)
+- Site web : raptoria.fr
+- Twitter : [@AtelierRaptoria](https://twitter.com/AtelierRaptoria)
+- Gitlab : [@AtelierRaptoria](https://gitlab.com/AtelierRaptoria)
+- Github : [@AtelierRaptoria](https://github.com/AtelierRaptoria)
 
 ## 📝 License
 
